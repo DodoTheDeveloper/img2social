@@ -13,6 +13,7 @@ pip install img2social
 ```bash
 img2social my_image.png
 ```
+![output](https://github.com/user-attachments/assets/0dda96bc-4b7d-4b44-99fc-874af48dc925)
 
 ## Optional parameters
 ```
